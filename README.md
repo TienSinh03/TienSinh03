@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hi 👋, I'm Phan Tien Sinh</h1>
-<h4 align="left">✨ I'm a final-year Software engineering student in Ho Chi Minh City, Vietnam. I'm enjoy researching and reading new technology blogs and passionate about back-end and mobile development especially with Spring-boot and mobile being React-native.</h4>
+<h4 align="left">✨ I'm a final-year Software engineering student in Ho Chi Minh City, Vietnam. I'm enjoy researching and reading new technology blogs and passionate about back-end and mobile development especially back-end with Springboot and mobile being React Native.</h4>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiensinh03&show_icons=true&locale=en&layout=compact" alt="tiensinh03" /></p> 
